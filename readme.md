@@ -10,5 +10,3 @@ It contains following functions:
 ![](reaction-roles.png)
 - User who join through a specific invite link get assigned a special role
 - The &purge [amount] command deletes messages, by default all messages but you can also purge an amount of messages
-
-**~ developed by Sanel Trnka**
